@@ -22,7 +22,7 @@ public class GitHub {
 			
 			Scanner sc=new Scanner(System.in);
 			op = sc.nextInt();
-			if (op==1) //opciones para el tipo de grado
+			if (op==1) //opciones para el tipo de grado 23232323232
 				System.out.println("Ha seleccionado acceso por Acceso Directo");
 			if (op==2)
 				System.out.println("Ha seleccionado acceso por Grado Medio");
