@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class GitHub {
 
-	public static void main(String[] args) {
+		public static void main(String[] args) {
 			int edad;
 			Scanner teclado= new Scanner(System.in);
 			System.out.println("Introduzca la edad: ");
